@@ -1,0 +1,24 @@
+{
+  "name": "assistance_instabot",
+  "version": "1.0.0",
+  "description": "#### How to run",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashKumarVerma/blog-running-python-from-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YashKumarVerma/blog-running-python-from-nodejs/issues"
+  },
+  "homepage": "https://github.com/YashKumarVerma/blog-running-python-from-nodejs#readme"
+}
